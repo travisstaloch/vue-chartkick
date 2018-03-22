@@ -105,6 +105,7 @@ const VueChartkick = {
     createComponent(Vue, 'geo-chart', Chartkick.GeoChart)
     createComponent(Vue, 'timeline', Chartkick.Timeline)
     createComponent(Vue, 'candlestick-chart', Chartkick.CandlestickChart)
+    createComponent(Vue, 'combo-chart', Chartkick.ComboChart)
   }
 }
 
